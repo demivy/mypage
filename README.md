@@ -53,7 +53,11 @@ Remember these tips, and you’ll get great results every time. To make it even 
 
 ###### Everyone has their favourite ways to eat steak – with good old chips and a crisp, green salad, with pepper or horseradish sauces, or even a simple fresh salsa verde to cut right through it. Whatever you choose, we’re sure your lucky guest will love you for it.
 
-</p></p></p>
+</p>
+</p>
+</p>
+
+
 ## About the author
 
    Not me!!! [JamieOliver.com's blog](http://google.com) 
