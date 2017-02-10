@@ -28,9 +28,11 @@ Syntax highlighted code block
 
 ```
 ![Image]({{ site.url }}/assets/kobe.jpg)
+
 ![Image](/assets/kobe.jpg)
 ![Image](src="assets/kobe.jpg")
-![Image](http://demivy.github.com/assets/kobe.jpg")
+
+![Image](https://demivy.github.io/assets/kobe.jpg")
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
