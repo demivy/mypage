@@ -20,19 +20,18 @@ But first, there are a few guidelines to bear in mind if you want to cook the pe
 Remember these tips, and you’ll get great results every time. To make it even easier, follow these simple steps:
 
 
-##HOW TO COOK THE PERFECT STEAK
+## HOW TO COOK THE PERFECT STEAK
 
 
 ###### Rub the steak all over with a good lug of olive oil and a good pinch of sea salt and black pepper
     
-![Image](/assets/perfectsteak/perfectsteak1.jpg)
+![Image](/assets/perfectsteak/perfectsteak1.JPG)
 
 ###### Add the steak to a hot pan, then cook for 6 minutes for medium-rare, or to your liking, turning every minute
 
 ![Image](/assets/perfectsteak/perfectsteak2.jpg)
 
-###### For more flavour, try one or a combination of the following… 
-###### Halve a garlic clove and rub it over the steak every time you turn it
+###### For more flavour, try one or a combination of the following … Halve a garlic clove and rub it over the steak every time you turn it
 
 ![Image](/assets/perfectsteak/perfectsteak3.jpg)
 
