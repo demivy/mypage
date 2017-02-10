@@ -25,7 +25,7 @@ Remember these tips, and you’ll get great results every time. To make it even 
 
 ###### Rub the steak all over with a good lug of olive oil and a good pinch of sea salt and black pepper
     
-![Image](/mypage/assets/perfectsteak/perfectsteak1.jpg)
+![Image](https://demivy.github.io/mypage/assets/perfectsteak/perfectsteak1.jpg)
 
 ###### Add the steak to a hot pan, then cook for 6 minutes for medium-rare, or to your liking, turning every minute
 
