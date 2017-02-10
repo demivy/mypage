@@ -1,7 +1,7 @@
 ## How to cook the perfect steak.
 
 
-![Image](/assets/perfectsteak/kobe.jpg)
+![Image](https://demivy.github.io/mypage/assets/perfectsteak/kobe.jpg)
 
 #### If you’re cooking to impress and only a tender, juicy steak will cut it, don’t be fooled into spending a fortune. 
 
@@ -29,27 +29,27 @@ Remember these tips, and you’ll get great results every time. To make it even 
 
 ###### Add the steak to a hot pan, then cook for 6 minutes for medium-rare, or to your liking, turning every minute
 
-![Image](/assets/perfectsteak/perfectsteak2.jpg)
+![Image](https://demivy.github.io/mypage/assets/perfectsteak/perfectsteak2.jpg)
 
 ###### For more flavour, try one or a combination of the following … Halve a garlic clove and rub it over the steak every time you turn it
 
-![Image](/assets/perfectsteak/perfectsteak3.jpg)
+![Image](https://demivy.github.io/mypage/assets/perfectsteak/perfectsteak3.jpg)
 
 ###### Rub the steak with a knob of butter – the sweetness from the butter will make it taste divine!
 
-![Image](/assets/perfectsteak/perfectsteak4.jpg)
+![Image](https://demivy.github.io/mypage/assets/perfectsteak/perfectsteak4.jpg)
 
 ###### Or create a herb brush by tying woody herbs like thyme or rosemary to the handle of a wooden spoon and brush it over the steak every minute or so
 
-![Image](/assets/perfectsteak/perfectsteak5.jpg)
+![Image](https://demivy.github.io/mypage/assets/perfectsteak/perfectsteak5.jpg)
 
 ###### Once cooked to your liking, rest the steak on a plate that can collect all the lovely juices for 2 minutes
 
-![Image](/assets/perfectsteak/perfectsteak6.jpg)
+![Image](https://demivy.github.io/mypage/assets/perfectsteak/perfectsteak6.jpg)
 
 ###### Carve with a nice sharp carving knife, then serve with the resting juices drizzled on top
 
-![Image](/assets/perfectsteak/perfectsteak7.jpg)
+![Image](https://demivy.github.io/mypage/assets/perfectsteak/perfectsteak7.jpg)
 
 ###### Everyone has their favourite ways to eat steak – with good old chips and a crisp, green salad, with pepper or horseradish sauces, or even a simple fresh salsa verde to cut right through it. Whatever you choose, we’re sure your lucky guest will love you for it.
 
