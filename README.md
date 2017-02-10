@@ -21,9 +21,10 @@ Remember these tips, and you’ll get great results every time. To make it even 
 
 
 ##HOW TO COOK THE PERFECT STEAK
-    <center><h6>
+
+
 ###### Rub the steak all over with a good lug of olive oil and a good pinch of sea salt and black pepper
-    </h6></center>
+    
 ![Image](/assets/perfectsteak/perfectsteak1.jpg)
 
 ###### Add the steak to a hot pan, then cook for 6 minutes for medium-rare, or to your liking, turning every minute
@@ -53,9 +54,6 @@ Remember these tips, and you’ll get great results every time. To make it even 
 
 ###### Everyone has their favourite ways to eat steak – with good old chips and a crisp, green salad, with pepper or horseradish sauces, or even a simple fresh salsa verde to cut right through it. Whatever you choose, we’re sure your lucky guest will love you for it.
 
-    </p>
-    </p>
-    </p>
 
 
 ## About the author
