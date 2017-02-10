@@ -1,8 +1,29 @@
-## Welcome to GitHub Pages
+## How to cook the perfect steak.
 
-You can use the [editor on GitHub](https://github.com/demivy/mypage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](/assets/kobe.jpg)
+
+#### If you’re cooking to impress and only a tender, juicy steak will cut it, don’t be fooled into spending a fortune. 
+
+Beyond the much-loved fillet, sirloin, rib-eye and rump, there’s a world of underrated, good-value steaks that will seriously deliver on the flavour front.
+
+Flank skirt, thick skirt and thin skirt are all delicious and definitely worth a try, but here we’re focussing on Jamie’s favourite – feather steak (also known as flat iron steak). Full of beautiful flavour, texture and fat marbling, feather steak is a good size to leave you satisfied. Ask your butcher to remove the tough sinew right in the middle of it, and you’ll be ready to go.
+
+But first, there are a few guidelines to bear in mind if you want to cook the perfect steak, whichever cut you choose. 
+
+**Before you start**, get the steak out of the fridge and allow it to come up to room temperature about one hour before cooking – frying or grilling it from cold will stop the heat from penetrating to the middle as efficiently. You also need to make sure your pan, griddle or barbecue is super hot before you begin – this will help to caramelise the meat, essential for a delicious crust.
+
+**During cooking**, aim to cook your steak medium-rare to medium – any more and you’ll be left with a tough piece of meat. Turning it every minute or so will make sure you get a really even cook.
+
+**After cooking**, leave it to rest and rub with a little extra virgin olive oil or butter for an incredible, juicy steak.
+
+Remember these tips, and you’ll get great results every time. To make it even easier, follow these simple steps:
+
+
+##HOW TO COOK THE PERFECT STEAK
+
+
+
 
 ### Markdown
 
@@ -27,7 +48,7 @@ Syntax highlighted code block
 
 ```
 
-![Image](/assets/kobe.jpg)
+
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
