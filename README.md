@@ -25,6 +25,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+[Image]({{ site.url }}/assets/kobe.jpg)
+[Image](/assets/kobe.jpg)
+[Image](src="assets/kobe.jpg")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
