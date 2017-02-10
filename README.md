@@ -1,7 +1,7 @@
 ## How to cook the perfect steak.
 
 
-![Image](/assets/kobe.jpg)
+![Image](/assets/perfectsteak/kobe.jpg)
 
 #### If you’re cooking to impress and only a tender, juicy steak will cut it, don’t be fooled into spending a fortune. 
 
@@ -22,43 +22,38 @@ Remember these tips, and you’ll get great results every time. To make it even 
 
 ##HOW TO COOK THE PERFECT STEAK
 
+Rub the steak all over with a good lug of olive oil and a good pinch of sea salt and black pepper
+
+![Image](/assets/perfectsteak/perfectsteak1.jpg)
+
+Add the steak to a hot pan, then cook for 6 minutes for medium-rare, or to your liking, turning every minute
+
+![Image](/assets/perfectsteak/perfectsteak2.jpg)
+
+For more flavour, try one or a combination of the following… 
+Halve a garlic clove and rub it over the steak every time you turn it
+
+![Image](/assets/perfectsteak/perfectsteak3.jpg)
+
+Rub the steak with a knob of butter – the sweetness from the butter will make it taste divine!
+
+![Image](/assets/perfectsteak/perfectsteak4.jpg)
+
+Or create a herb brush by tying woody herbs like thyme or rosemary to the handle of a wooden spoon and brush it over the steak every minute or so
+
+![Image](/assets/perfectsteak/perfectsteak5.jpg)
+
+Once cooked to your liking, rest the steak on a plate that can collect all the lovely juices for 2 minutes
+
+![Image](/assets/perfectsteak/perfectsteak6.jpg)
+
+Carve with a nice sharp carving knife, then serve with the resting juices drizzled on top
+
+![Image](/assets/perfectsteak/perfectsteak7.jpg)
+
+Everyone has their favourite ways to eat steak – with good old chips and a crisp, green salad, with pepper or horseradish sauces, or even a simple fresh salsa verde to cut right through it. Whatever you choose, we’re sure your lucky guest will love you for it.
 
 
+## About the author
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```
-
-
-
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/demivy/mypage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+   Not me!!!
