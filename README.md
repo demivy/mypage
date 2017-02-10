@@ -12,7 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-[My helpful screenshot]({{ site.url }}/assets/kobe.jpg) 
 ## Header 2
 ### Header 3
 
@@ -28,10 +27,7 @@ Syntax highlighted code block
 
 ```
 
-
 ![Image](/assets/kobe.jpg)
-
-![Image]({{site.url}}/assets/kobe.jpg)
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
